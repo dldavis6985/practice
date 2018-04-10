@@ -1,0 +1,10 @@
+C:\Users\newuser\practice\CSharpPractice\bin\Debug\netcoreapp2.0\CSharpPractice.deps.json
+C:\Users\newuser\practice\CSharpPractice\bin\Debug\netcoreapp2.0\CSharpPractice.runtimeconfig.json
+C:\Users\newuser\practice\CSharpPractice\bin\Debug\netcoreapp2.0\CSharpPractice.runtimeconfig.dev.json
+C:\Users\newuser\practice\CSharpPractice\bin\Debug\netcoreapp2.0\CSharpPractice.dll
+C:\Users\newuser\practice\CSharpPractice\bin\Debug\netcoreapp2.0\CSharpPractice.pdb
+C:\Users\newuser\practice\CSharpPractice\obj\Debug\netcoreapp2.0\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\newuser\practice\CSharpPractice\obj\Debug\netcoreapp2.0\CSharpPractice.AssemblyInfoInputs.cache
+C:\Users\newuser\practice\CSharpPractice\obj\Debug\netcoreapp2.0\CSharpPractice.AssemblyInfo.cs
+C:\Users\newuser\practice\CSharpPractice\obj\Debug\netcoreapp2.0\CSharpPractice.dll
+C:\Users\newuser\practice\CSharpPractice\obj\Debug\netcoreapp2.0\CSharpPractice.pdb
