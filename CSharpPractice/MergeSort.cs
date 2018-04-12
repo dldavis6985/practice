@@ -5,8 +5,6 @@ namespace CSharpPractice
    
     class MergeSort
     {
-        
-        
 
         public static void MergeSortIntList(List<int> toSort)
         {   

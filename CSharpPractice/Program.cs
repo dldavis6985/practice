@@ -31,7 +31,7 @@ namespace CSharpPractice
             }
             Console.WriteLine("--------------------");
 
-            MergeSort.MergeSortIntList(toSort);           
+            QuickSort.QuickSortIntList(toSort);           
             
             foreach(var i in toSort)
             {
